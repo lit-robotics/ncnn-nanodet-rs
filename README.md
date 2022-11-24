@@ -2,6 +2,8 @@
 
 Rust crate for the [nanodet](https://github.com/RangiLyu/nanodet) object detection model, based on [ncnn](https://github.com/Tencent/ncnn) neural network framework.
 
+**Deprecated in favor of [nanodet-rs](https://github.com/lit-robotics/ncnn-nanodet-rs), which supports multiple neural network backends in addition to `ncnn`**
+
 ## Usage
 
 Can be used as library by including in `Cargo.toml`:
